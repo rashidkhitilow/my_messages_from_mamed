@@ -1,0 +1,14 @@
+{
+    "interval_in_seconds_between_messages": 10,
+    "show_messages_in_given_order": "no",
+    "show_messages_in_random_order": "yes",
+    "messages": [
+
+        { "header": "Message", "message": "Relax! ☻", "font": "Quicksand 50 bold", "text_color": "white", "background_color": "random", "display_duration_in_seconds": 5 },
+        { "header": "Message", "message": "★ Work hard! ★", "font": "Quicksand 50 bold", "text_color": "white", "background_color": "green", "display_duration_in_seconds": 5 },
+        { "header": "Message", "message": "Be positive! ☻", "font": "Quicksand 50 bold", "text_color": "white", "background_color": "random", "display_duration_in_seconds": 5 },
+        { "header": "Message", "message": "Drink\nwater!", "font": "Quicksand 50 bold", "text_color": "white", "background_color": "random", "display_duration_in_seconds": 5 },
+
+        {}
+    ]
+}
